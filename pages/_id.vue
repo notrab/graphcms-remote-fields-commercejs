@@ -16,7 +16,7 @@
 
     <img
       :src="page.checProduct.media.source"
-      :at="page.checProduct.name"
+      :alt="page.checProduct.name"
       width="250"
     />
   </div>
