@@ -12,6 +12,7 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
+    "@graphcms/management": "0.0.19",
     "dotenv": "8.2.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",
